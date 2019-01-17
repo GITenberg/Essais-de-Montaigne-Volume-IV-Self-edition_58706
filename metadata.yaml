@@ -1,11 +1,14 @@
 _repo: Essais-de-Montaigne-Volume-IV-Self-edition_58706
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Michaud, Général
     alias: Michaud
     gutenberg_agent_id: '45174'
     url: http://www.gutenberg.org/2009/agents/45174
+covers:
+- cover_type: archival
+  image_path: 58706-h/images/cover.jpg
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1230
     wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58706#Essais-de-Montaigne-Volume-IV-Self-edition
 gutenberg_issued: '2019-01-16'
 gutenberg_type: Text
 identifiers:
