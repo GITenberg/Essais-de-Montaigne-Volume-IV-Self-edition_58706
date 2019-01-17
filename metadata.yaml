@@ -1,0 +1,34 @@
+_repo: Essais-de-Montaigne-Volume-IV-Self-edition_58706
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Michaud, Général
+    alias: Michaud
+    gutenberg_agent_id: '45174'
+    url: http://www.gutenberg.org/2009/agents/45174
+creator:
+  author:
+    agent_name: Montaigne, Michel de
+    aliases:
+    - Montagne, Michel de
+    - Montaigne, Michel Eyquem de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
+description: ''
+gutenberg_issued: '2019-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58706'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Essais de Montaigne, Volume IV
+
+  (Self-édition)'
+url: http://www.gutenberg.org/ebooks/58706
